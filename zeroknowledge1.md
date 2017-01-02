@@ -36,3 +36,4 @@ Cons: Dependent on understanding asymmetric encryption.
 
 <http://www.wisdom.weizmann.ac.il/~naor/PAPERS/waldo.pdf>
 
+Proc & cons: Same as 1.
