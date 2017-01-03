@@ -46,7 +46,7 @@ Bob: Then show me.
 
 Alice: No way. You have to find him yourself.
 
-Bob: See. You are lying.
+Bob: See? You are lying.
 
 Alice: I am not. Let me prove it.
 
