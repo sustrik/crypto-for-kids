@@ -50,7 +50,7 @@ Bob: See? You are lying.
 
 Alice: I am not. Let me prove it.
 
-She takes a big pieco of cardboard, makes a small hole in the middle and puts it top of the book, so that picture of Waldo is seen threough the hole.
+She takes a big piece of cardboard, makes a small hole in the middle and puts it top of the book, so that picture of Waldo is seen through the hole.
 
 
 <http://www.wisdom.weizmann.ac.il/~naor/PAPERS/waldo.pdf>
