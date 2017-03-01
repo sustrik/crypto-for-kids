@@ -1,6 +1,8 @@
 **Goal: Explain zero-knowledge proofs in intuitive manner. No story yet. Just a list of possible approaches.**
 
-### 1
+### Zero-knowledge proofs
+
+#### 1
 
 Q: I have a deck of cards. I draw one of them and say it is black. Can I convince you about the fact without giving away any more details?
 
@@ -10,13 +12,13 @@ Pros: Simple. No other crypto primitives needed.
 
 Cons: It's a non-interactive proof, whereas your typical ZK proof is interactive.
 
-### 2
+#### 2
 
 Classic Alibaba's cave story. <https://en.wikipedia.org/wiki/Zero-knowledge_proof#Abstract_example>
 
 Cons: Incentives are unclear. Why does prover want to prove that he has the key? Why can't he just show the verifier how he unlocks the door? Etc.
 
-### 3
+#### 3
 
 <https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/>
 
@@ -24,7 +26,7 @@ Pros: Exhaustive.
 
 Cons: Needs esoteric knowledge, i.e. NP-completenes etc. On the other hand, the knowledge in not central to the explanation. Can be probably simplified.
 
-### 4
+#### 4
 
 X communicates with a person via encrypted email (assymetric encryption). Then he meets a person who claims they've been the one who X communicated with. X wants them to show him their secret key to prove it. The refuse - X could abuse the key if they did that. So, instead, X writes a message (e.g. "shuffle duffle muzzle muff"), hands it over, the prover encrypts it using their secret key, X decrypts it and voila - he's sure that he's speaking to the right person.
 
@@ -32,7 +34,7 @@ Pros: Nicely shows the "zero knowledge" property. At the beginning X sends "shuf
 
 Cons: Dependent on understanding asymmetric encryption.
 
-### 5
+#### 5
 
 Alice and Bob are playing "Where is Waldo".
 

@@ -1,5 +1,7 @@
 **Goal: Explain what and incentive is and how it can be used to create a mechanism.**
 
+### Splitting the chores
+
 In concentration camps people were starving.
 
 When you are starving it's hard to share food. Everyone wants to get their fair share but it's impossible to split food into exactly equal parts.

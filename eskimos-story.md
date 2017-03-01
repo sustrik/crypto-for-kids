@@ -1,5 +1,7 @@
 **A hands-on example for asymmetric crypto. It shows that there are processes that are easy to do one way, but hard to do in the opposite way.**
 
+### Eskimo's story
+
 Here's a simple game for kids that shows how asymmetric encryption works in principle, makes the fact that with only public key at your disposal encryption may be easy while decryption may be so hard as to be basically impossible, intuitive and gives everyone a hands-on experience with a simple asymmetric encryption system.
 
 Here's how it works:

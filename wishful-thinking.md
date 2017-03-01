@@ -1,5 +1,7 @@
 **Goal: Explain how, in cryptography, one must do their best not to imagine sock puppets instead of real adversaries.**
 
+### Wishful thinking
+
 # 1
 
 1. e4 e5
