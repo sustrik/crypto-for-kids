@@ -11,3 +11,5 @@ One person cuts the bread into two parts. The other person picks one of the part
 Think about incentives in play!
 
 A side note not related to incentives: Note how there's no way to feel cheated. If the other person was splitting the food by themselves most people would feel like they've left the best part for themselves. If it's done this way there's no one to blame but you.
+
+NOTE: A story about concentration camp may be to grave for a kids' book. We can, for example, illustrate the point on splitting household chores between two siblings.

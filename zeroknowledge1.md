@@ -8,7 +8,7 @@ A: Yes. I can take all red cards from the deck and show them to you.
 
 Pros: Simple. No other crypto primitives needed.
 
-Cons: It's a non-interactive proofs, whereas your typical ZK proof is interactive.
+Cons: It's a non-interactive proof, whereas your typical ZK proof is interactive.
 
 ### 2
 
@@ -52,7 +52,7 @@ Alice: I am not. Let me prove it.
 
 She takes a big piece of cardboard, makes a small hole in the middle and puts it top of the book, so that picture of Waldo is seen through the hole.
 
-
 <http://www.wisdom.weizmann.ac.il/~naor/PAPERS/waldo.pdf>
 
 Proc & cons: Same as 1.
+
