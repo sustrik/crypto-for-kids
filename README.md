@@ -1,7 +1,8 @@
 # Crypto for Kids
 
-This project is a dumping ground for texts that will one day form a cryptography book for kids.
 ![cryptotalk](cryptotalk.png)
+
+This project is a dumping ground for texts that will one day form a cryptography book for kids.
 
 The goal of the book is to avoid as much technical detail as possible and focus on basic principles and the kind of thinking needed for crypto.
 
