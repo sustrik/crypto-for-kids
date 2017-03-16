@@ -40,7 +40,7 @@ Qgdzzxoglu smiled snarkily but haven't said anything. Maybe I was going to live 
 
 I hoped I haven't overdone it. Being honest with the enemy is hard.
 
-"So you are trying to convince me that De Ribeira is going to attack Iconium," he gave me a sharp look, apparently trying to determine whether I was lying or not. "And you know what? We've got our reports. And our reports are saying that rebels will try to trick us into moving all our forces into Iconium cluster and then attach undefended pashalik of Phlesmus. And if that's what you are doing bad things are going to happen to your proboscis."
+"So you are trying to convince me that De Ribeira is going to attack Iconium," he gave me a sharp look, apparently trying to determine whether I was lying or not. "And you know what? We've got our reports. And our reports are saying that rebels will try to trick us into moving all our forces into Iconium and then attack undefended pashalik of Phlesmus. And if that's what you are trying to do bad things are going to happen to your proboscis."
 
 ...
 
