@@ -24,7 +24,7 @@ He took a paper out of his pocket and put in on the coffee table, spinning it so
 
 “Attack the Iconium Cluster,” said the line below it.
 
-The rest of the sheet was empty except for holographic seal ofHigh Command of Proximian Insurgency.
+The rest of the sheet was empty except for holographic seal of High Command of Proximian Insurgency.
 
 "Comandante Ribeira is no fool," he said, "And this scrap of paper is not going to convince me that he's going to split his forces and attack both those places at the same time. Our strategic machines are vastly more powerful than Proximian ones, they've been running hot for the past week and out lab rats tell us that there's no way to win that way."
 
@@ -34,7 +34,7 @@ I knew that this kind of empty flattery was used at the Sublime Porte but I was 
 
 Qgdzzxoglu smiled snarkily but haven't said anything. Maybe I was going to live in the end.
 
-"I have no loyalty for the Proximian cause and before the rebelion started I have lived happily and had no thoughts of betrayal. And now, hoping for your mercy, I am going to disclose the true meaning of this message to you."
+"I have no loyalty for the Proximian cause and before the rebelion I have lived happily and had no thoughts of betrayal. And now, hoping for your mercy, I am going to disclose the true meaning of this message to you."
 
 "It is a code, O you, whose slipper weights heavily upon the neck of nations," I said, "The recepient is supposed to ignore the first sentence and only follow the second one."
 
