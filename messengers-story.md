@@ -26,15 +26,23 @@ He took a paper out of his pocket and put in on the coffee table, spinning it so
 
 The rest of the sheet was empty except for holographic seal ofHigh Command of Proximian Insurgency.
 
+"Comandante Ribeira is no fool," he said, "And this scrap of paper is not going to convince me that he's going to split his forces and attack both those places at the same time. Our strategic machines are vastly more powerful than Proximian ones, they've been running hot for the past week and out lab rats tell us that there's no way to win that way."
+
+"You are right, O leader of men," I said.
+
+I knew that this kind of empty flattery was used at the Sublime Porte but I was not sure whether it wasn't reserved for the sultan alone.
+
+Qgdzzxoglu smiled snarkily but haven't said anything. Maybe I was going to live in the end.
+
+"I have no loyalty for the Proximian cause and before the rebelion started I have lived happily and had no thoughts of betrayal. And now, hoping for your mercy, I am going to disclose the true meaning of this message to you."
+
+"It is a code, O you, whose slipper weights heavily upon the neck of nations," I said, "The recepient is supposed to ignore the first sentence and only follow the second one."
+
+I hoped I haven't overdone it. Being honest with the enemy is hard.
+
+"So you are trying to convince me that De Ribeira is going to attack Iconium," he gave me a sharp look, apparently trying to determine whether I was lying or not. "And you know what? We've got our reports. And our reports are saying that rebels will try to trick us into moving all our forces into Iconium cluster and then attach undefended pashalik of Phlesmus. And if that's what you are doing bad things are going to happen to your proboscis."
+
 ...
-
-When interrogated, he explains that the code is that the first sentence should be ignored and the second one should be followed.
-
-The messenger feels no loyalty to his army and is actually telling the truth.
-
-However, beylerbey realizes that he may be lying. The code may really have been that the first sentence is correct, while the second one false.
-
-He orders messenger to be tortured. (“Bad things can happen to your proboscis,” he said.)
 
 The messenger has no intention to suffer to win someone else's war. At the same time it's clear that if he continues to tell truth he will be tortured. So he says that general is right and it's the first sentence that should be taken into account.
 
