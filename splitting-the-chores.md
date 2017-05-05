@@ -1,5 +1,7 @@
 **Goal: Explain what and incentive is and how it can be used to create a mechanism.**
 
+NOTE: This got a bit out of hand, exploring the concept of zero-sum games...
+
 ### Splitting the chores
 
 Dear Grandma,
@@ -19,9 +21,16 @@ Dear Grandma,
 
 I've shown your letter to Judy. She read it and said that she recognizes the system. She said it was used by prisoners in concentration camps. When they had to split bread, one would cut it in two, the other one would choose the half to take. You could have told me. I am not a little boy anymore, you know.
 
-Anyway, we've tried it with chores, maybe twenty or thirty times in a row. First I proposed a split and Judy chose the easier part. Then I proposed a different split and Judy again took the easier part. When that went on for a while I said it was not fair and that I want to choose as well. So Judy proposed a split and I chose the easy half (no vacuuming!) Then she proposed a different split with vacuuming of ground floor in one part and vacuuming of top floor in the other part. There was no way to avoid vacuuming altogether. Anyway, after like two hours we've got a split that we were both happy with.
+Anyway, we've tried it with chores. I've spent two hours devising a perfect split. It went into smallest details assigning even tasks like vacuuming between radiator fins which we do, like, twice a year. If we had adopted that plan everything would have been well. However, Judy spoiled everything and choose the part I was planning to do. How is that supposed to be fair?
 
-So, thanks for the advice. This is much better than figthing and it's even fun. And the best thing is that Judy can't whine now. If she does I would just propose to exchange our chores. And she knows that so she doesn't even try.
+With love,
+Toddy
+
+Dear Grandma,
+
+We've tried re-splitting the chores maybe twenty or thirty times in a row. First I proposed a split and Judy chose the easier part. Then I proposed a different split and Judy again took the easier part. When that went on for a while I said it was not fair and that I want to choose as well. So Judy proposed a split and I chose the easy half (no vacuuming!) Then she proposed a different split with vacuuming of ground floor in one part and vacuuming of top floor in the other part. There was no way to avoid vacuuming altogether. Anyway, after like two hours we've got a split that we were both happy with.
+
+So, thanks for the advice. It may work in the end. And the best thing is that Judy can't whine now. If she does I would just propose to exchange our chores. And she knows that so she doesn't even try.
 
 With love,
 Toddy
@@ -45,6 +54,4 @@ This is getting ridiculous. Now we both have more work to do than we used to whi
 
 Thanks!
 Todd
-
-
 

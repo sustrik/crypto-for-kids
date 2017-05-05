@@ -10,7 +10,7 @@ I must have passed out because of pressure loss because the next thing I remembe
 
 There was a sound of door opening and a person walked into my field of vision.
 
-It took me few seconds to realize who the man was. He was wearing an old-fashioned black suit and a bowler hat, black umbrella in his hand, not the baggy trousers and pointed slippers seen on his official portraits. But then he smiled and showed the glistening golden teeth on the left side and his own healthy camel-like teeth on the right and the realization hit me.
+It took me few seconds to realize who the man was. He was wearing an old-fashioned black suit and a bowler hat, black umbrella in his hand, not the baggy trousers seen on his official portraits. But then he smiled and showed the glistening golden teeth on the left side and his own healthy camel-like teeth on the right and the realization hit me.
 
 It was him. Beylerbey Qgdzzxoglu in person.
 
