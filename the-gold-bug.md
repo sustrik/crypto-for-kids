@@ -167,3 +167,33 @@ The most common trigrams in English:
 THE ING AND HER ERE ENT THA NTH WAS ETH
 ```
 
+It's worth noting that Morse code was designed to be as compact as possible. Terefore, the most common letters have shortest Morse representations:
+
+```
+E .
+T -
+A .-
+O ---
+I ..
+N -.
+S ...
+H ....
+R .-.
+D -..
+L .-..
+C -.-.
+U ..-
+M --
+W .--
+F ..-.
+G --.
+Y -.--
+P .--.
+B -...
+V ...-
+K -.-
+J .---
+X -..-
+Q --.-
+Z --..
+```
