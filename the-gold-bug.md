@@ -161,3 +161,9 @@ The most common digrams in English:
 TH HE IN ER AN RE ED ON ES ST
 ```
 
+The most common trigrams in English:
+
+```
+THE ING AND HER ERE ENT THA NTH WAS ETH
+```
+
