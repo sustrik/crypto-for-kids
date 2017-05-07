@@ -4,7 +4,7 @@ Once, there were no accounting books. In fact, most people were illiterate and w
 
 But given that that debts still had to be recorded somehow they would take a wooden stick, preferably from an elastic wood, like hazelwood, and cut as many notches as the number of coins owed into it. It was called a tally stick.
 
-!()[tally.png]
+![](tally.png)
 
 While this kind of tally stick is good for not forgeting the numbers, it's not immune from fraud.
 
@@ -14,7 +14,7 @@ On the other hand, if the stick was stored with the debtor, they could have thro
 
 To prevent that split tally stick were used. After carving the notches the stick was split in two lengthwise and each party stored one half of it:
 
-!()[split-tally.png]
+![](split-tally.png)
 
 If the creditor added more notches to his half of the stick all the debtor had to do was to show his half of the stick and it would be obvious that the creditor was cheating and that the notches were added after the stick was split.
 
@@ -22,9 +22,9 @@ But splitting the stick haven't prevented either party destroying their half of 
 
 This problem was sometimes solved by adding seals to the tally stick. Each party put their seal on the tally before it was split.
 
-!()[tally-with-seal.png]
+![](tally-with-seal.png)
 
 Now, if you wanted to make a fake half of tally stick you would have to fake your counterparties seal which is not possible.
 
-(Maybe there should be a preliminary chapter about seals.)
+(Maybe there should be a preliminary chapter about seals.)	
 
