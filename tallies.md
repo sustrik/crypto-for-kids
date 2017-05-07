@@ -22,7 +22,7 @@ But splitting the stick haven't prevented either party destroying their half of 
 
 This problem was sometimes solved by adding seals to the tally stick. Each party put their seal on the tally before it was split.
 
-![](tally-with-seal.png)
+![](tally-with-seals.png)
 
 Now, if you wanted to make a fake half of tally stick you would have to fake your counterparties seal which is not possible.
 
