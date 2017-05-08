@@ -5,7 +5,6 @@
 * Cypherpunks
 * Crypto wars
 * Bitcoin
-* Aaron Swartz
 * Stuxnet
 * I like the DAO hack story as a cautionary tale about crypto not bring sufficient by itself. More thinking needed.
 * Voynich manuscript (this actually offers a way to discuss Zipf's law)
