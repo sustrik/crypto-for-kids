@@ -14,3 +14,5 @@ But the numbers drawn are completely different.
 
 And now the question: How did the scam work?
 
+NOTE: The claim about the time paradox is super weak. To improve the story the alien can ask for something non-monetary (sex, political influence). Or, more generally, positive demonstration of knowledge of the future can be used to make people do what you want. E.g. "I know that an asteroid is going to destroy Earth in one year. Give me all your money to build a starship to save you."
+

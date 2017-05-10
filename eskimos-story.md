@@ -18,4 +18,6 @@ If a kid wants to send an encrypted message to the owner of the secret key, they
 
 However, if the message gets intercepted by any other game participant, decrypting it would be an extremely time consuming activity. Each word of the message would have to be found in English-Eskimo dictionary, which would in turn mean scanning the whole dictionary in a page-by-page and word-by-word manner!
 
+Comment: Given that this is going to be an online book, we can very well add a short (1000 words?) dictionary.
+
 
