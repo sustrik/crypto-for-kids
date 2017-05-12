@@ -18,3 +18,5 @@ What about the case when we want anyone from the selected group to be able to ge
 
 ![](multi-recepient4.png)
 
+Comment: This can be used to explain the concept of crypto primitives: Custom-made locks are fun but you have to go to the locksmith each time you need one. Prefab locks are less fun but they can be combined in any way you want.
+
