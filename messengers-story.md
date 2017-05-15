@@ -42,6 +42,8 @@ I hoped I haven't overdone it. Being honest with the enemy is hard.
 
 "So you are trying to convince me that de Ribeira is going to attack Iconium," he gave me a sharp look, apparently trying to determine whether I was lying or not. "And you know what? We've got our reports. And our reports are saying that rebels will try to trick us into moving all our forces into Iconium and then attack pashalik of Phlesmus while it's undefended. And if that's what you are trying to do bad things are going to happen to your proboscis."
 
+"The Most Holy Cross, John XXIII and Our Lady of Africa have already got command to move to Iconium cluster. And you should expect at least comparable fire force from elsewhere."
+
 ...
 
 The messenger has no intention to suffer to win someone else's war. At the same time it's clear that if he continues to tell truth he will be tortured. So he says that general is right and it's the first sentence that should be taken into account.
