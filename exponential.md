@@ -24,4 +24,4 @@ The weight of grains of wheat on the first half of the chessboard is about 279 t
 
 ### 3
 
-Bacteria splitting in exponential progression. This could be a basis for a nice doomsday story. Alternatively, self-replicating nanomachines, computer viruses, memes etc.
+Bacteria splitting in exponential progression. This could be a basis for a nice doomsday story. Alternatively, self-replicating nanomachines, computer viruses, memes, Malthusianism etc.
