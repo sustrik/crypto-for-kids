@@ -1,6 +1,6 @@
 **Explain how real-world events can be used as timestamps.**
 
-In 2017, a glass jar coated in cement was discovered when repairing a quay wall in Lausanne. It contained a note signed by "Swiss cement workers" and a copy of one issue of Le Réveil, an anarchist newspaper published on July 7th 1900.
+In 2017, a glass jar coated in cement was discovered when repairing a quay wall in Lausanne. It contained a note signed by "Cement Workers of Switzerland" and a copy of one issue of Le Réveil, an anarchist newspaper published on July 7th 1900.
 
 Such time capsules are found once in a while and very often they happen to contain newspapers. While the builders of the capsule probably wanted to give the recepient the idea what was happening at the time, the newspapers act as a way to date the time capsule.
 
