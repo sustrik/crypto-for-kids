@@ -24,6 +24,7 @@ Cantralized way to prevent Sibyl attacks can be explored straight away:
 
 * Voting in elections
 * Facebook's real name policy
+* Certificates
 
 So can proof of work.
 

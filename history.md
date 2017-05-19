@@ -7,7 +7,6 @@
 * Bitcoin
 * Stuxnet
 * I like the DAO hack story as a cautionary tale about crypto not bring sufficient by itself. More thinking needed.
-* Voynich manuscript (this actually offers a way to discuss Zipf's law)
 
 The following stories are endlessly repeated elsewhere, so I am tempted to omit them:
 
