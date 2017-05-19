@@ -14,8 +14,6 @@
 
 # 2
 
-(See encrypt1.md for the context.)
-
 "What would you do if you were Prof. Krankenstein?"
 
 "Well, it's apparently impossible to get the documents. They are too well guarded. Maybe it would be possible to hijack Russian president instead and exchange him for the documents?"
