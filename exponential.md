@@ -27,3 +27,5 @@ The weight of grains of wheat on the first half of the chessboard is about 279 t
 Bacteria splitting in exponential progression. This could be a basis for a nice doomsday story. Alternatively, self-replicating nanomachines, computer viruses, memes, Malthusianism etc.
 
 Let's say evil nanomachines are replicating swiftly. People try to stop them, but they can only destroy them with linear efficiency: X tonnes of nanomachines per hour. The machines themselves, however, double their mass each hour. The deluge cannot be stopped. Exponential growth always trums the polynomial (in our case linear) growth.
+
+Note: Discussion of herd immunity, vaccination and modelling of infectious diseases can be added here. It's kind of tangential, but not totally irrelevant (think computer viruses). Decide whether to include it or not.
