@@ -10,6 +10,8 @@ Now imagine that the teacher needs a favour from pupil's parent. She may pass hi
 
 Alternatively, same kind of interactive proof is used in pen and paper exams. If the questions are stolen the exam doesn't prove anything any more but a by-stander cannot tell the difference.
 
+Cons: The asymmetry of the setup (teacher vs. pupil) makes it kind of obvious and not at all interesting. The point becomes obvious only if the setup is symmetric: A, B, C are walking in the street. A proves something to B. C, who was listening to the entire conversation, has no idea whether the proof is valid or not.s
+
 ### 2
 
 X's works in recruitement and his work is assess other people's foreign language skills. What he typically does is that he asks the applicant to translate some radomly chosen words from Enlish to Spanish. He says: "Dog", the applicant replies "Perro". He says: "Cat", the applicant replies "Gato". After twenty or so such questions he's reasonably sure that the applicant speaks Spanish.
