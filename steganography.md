@@ -1,4 +1,4 @@
-** Explain how to hide things in plain sight.**
+**Explain how to hide things in plain sight.**
 
 ### Steganography
 
