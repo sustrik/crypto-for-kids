@@ -2,6 +2,7 @@
 
 * Scytale as an example of transposition cipher
 * Trithemius/Alberti/Vigenere/Babbage -- polyalphabetic ciphers
+* Shannon
 * Cypherpunks
 * Crypto wars
 * Bitcoin

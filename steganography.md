@@ -13,3 +13,5 @@ Here's a real-life steganography story: "Today, The Intercept released documents
 One thing that should be pointed out: She was not 100% clueless as she scanned the documents to get rid of metadata. That makes a good basis for a story.
 
 Source here: http://blog.erratasec.com/2017/06/how-intercept-outed-reality-winner.html#.WTZDd3WGNFQ
+
+This can be stretched out to be a longer story. Let's say there's a leaker whow the authorities want to identify. First, when handing out secret documents, they add a number to doc's metadata (Explain what metadata are! There can even be a separate chapter about metadata.) The number identifies the employee the document was handed to. The leaker is smart though. She prints and scans the document thus making sure that there are no attached metadata. But the printer/scanner adds metadata of their own. Ouch! Game over. But let's say the leaker was smart enough to re-type the document. Well, it turns out that the authorities have handed a slightly different document to each employee. Few inconspicious words were replaced by synonyms. In such a case even re-typing doesn't work.
