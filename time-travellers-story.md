@@ -1,6 +1,6 @@
 **Shows how OTP can be made to yield an arbitrary plaintext.**
 
-### Time traveler's story
+[[[name:time-traveller section:99
 
 Mr. X is approached in the subway by a guy who claims to be an alien stranded on Earth and to possess time machine that allows him to know the future. He needs funds to fix his flying saucer but filling in winning numbers for next week's lottery would create a time paradox. Therefore, he's willing to sell next week's winning numbers to Mr. X at a favourable price.
 
@@ -16,3 +16,4 @@ And now the question: How did the scam work?
 
 NOTE: The claim about the time paradox is super weak. To improve the story the alien can ask for something non-monetary (sex, political influence). Or, more generally, positive demonstration of knowledge of the future can be used to make people do what you want. E.g. "I know that an asteroid is going to destroy Earth in one year. Give me all your money to build a starship to save you."
 
+]]]

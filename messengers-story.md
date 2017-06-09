@@ -1,6 +1,6 @@
 **Simple 1-bit example of OTP. Shows how the true content of the message cannot be given away.**
 
-### Messenger’s story
+[[[name:messenger section:32
 
 A portal suddenly opened on the starboard ejecting a fleet of imperial pursuit vessels. The propulsion system of my ship got hit before the shield activated. I’ve tried to switch on the backup drive but before it charged to 5% I was already dangling off a dozen tractor beams.
 
@@ -56,3 +56,4 @@ He orders the torture to proceed only to make the messager change his confession
 
 “Today, the God, the Compassionate, the Merciful have taught me that there are secrets that cannot be given away. You cannot give them away to save yourself from torture. You cannot give them away to save your kids from being sold to slavery. You cannot give them away to prevent the end of the world. You just cannot give them away and whether you want to or not matters little.”
 
+]]]

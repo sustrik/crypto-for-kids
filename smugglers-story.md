@@ -1,10 +1,8 @@
 **How to establish secure communication over insecure channel. Merkle's puzzles.**
 
-### Smuggler's story
+[[[name:smuggler section:78
 
-This is a puppet show. No sane smuggler would talk about what he's up to in front of border patrol. Don't do that at home.
-
-There are two hills on the stage with country border between them. Law-abiding citizen is on the right hill. Smuggler enters the stage on the left.
+It's a puppet show. There are two hills on the stage with country border between them. Law-abiding citizen is on the right hill. Smuggler enters the stage on the left.
 
 SMUGGLER: Hey, you!
 
@@ -52,4 +50,5 @@ SMUGGLER: Ok, got it, let's meet there in an hour!
 PATROL: Oh my, oh my. I am much better at de-obfuscation than that moron citizen. I've already got two messages solved. But one has number 56, the other number 110. I have no idea which one is going to be number 18. There's no way I can find the right one in just one hour!
 
 The curtain comes down. Happy gulping sounds can be heard from the backstage.
- 
+
+]]]

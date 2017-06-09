@@ -5,10 +5,8 @@ body {
 }
 
 h1 {
+    font-size: 175%;
     text-align: center;
 }
 
-p.lang {
-    font-style: italic;
-}
 

@@ -1,6 +1,6 @@
 **An example of frequency analysis. No need to write this, there's The Gold Bug by E.A.Poe. It's even in the public domain. Yay!**
 
-### The Gold Bug
+[[[name:goldbug section:20
 
 Here Legrand, having re-heated the parchment, submitted It my inspection. The following characters were rudely traced, in a red tint, between the death's-head and the goat:
 
@@ -146,6 +146,8 @@ which assures us that the first letter is A, and that the first two words are 'A
 'A good glass in the bishop's hostel in the devil's --twenty-one degrees and thirteen minutes --northeast and by north --main branch seventh limb east side --shoot from the left eye of the death's-head --a bee-line from the tree through the shot fifty feet out.'"
 
 "Even this division," said I, "leaves me still in the dark."
+
+]]]
 
 ### Additional material
 

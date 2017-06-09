@@ -1,8 +1,8 @@
 **This story is a motivational one. It's not trying to explain any particular cryptographic topic, rather it shows that cryptography can often accomplish things that seem to be impossible. In this particular case, bypassing trained agents able to silently kill you in twelve different ways in the middle of hostile country by a simple, magical act of lighting a pipe.**
 
-### Doomsgerm story
+[[[name:doomsgerm section:1
 
-Professor Krankenstein was the most influential generic engineer of his time.
+Professor Krankenstein was the most influential genetic engineer of his time.
 
 When, in the spring of 2030, he almost incidentally invented the most terrible biological weapon known to humanity it took him about three seconds to realize that should his invention fall into the hands of one of the superpowers -- or into the hands of any common idiot, really --  it could well mean the end of the human race.
 
@@ -39,5 +39,6 @@ Once the stream of proposals dried up, everyone looked at professor Krankenstein
 
 The silence is almost palpable.
 
-Professor Krankenstein slowly took out his iconic pipe and lighted it with the paper which had the decryption password written on it.
+Professor Krankenstein slowly took out his iconic pipe and lighted it with the paper which had the decryption key written on it.
 
+]]]

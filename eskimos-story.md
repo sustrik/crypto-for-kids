@@ -1,6 +1,6 @@
 **A hands-on example for asymmetric crypto. It shows that there are processes that are easy to do one way, but hard to do in the opposite way.**
 
-### Eskimo's story
+[[[name:eskimo section:54
 
 Here's a simple game for kids that shows how asymmetric encryption works in principle, makes the fact that with only public key at your disposal encryption may be easy while decryption may be so hard as to be basically impossible, intuitive and gives everyone a hands-on experience with a simple asymmetric encryption system.
 
@@ -17,6 +17,8 @@ To distribute the public key to everyone involved in the game you can either buy
 If a kid wants to send an encrypted message to the owner of the secret key, they just use the public key (English-Eskimo dictionary) to translate the message, word-by-word, from English to Eskimo. The owner of the secret key (Eskimo-English dictionary) can then easily decrypt the message by translating it back into English.
 
 However, if the message gets intercepted by any other game participant, decrypting it would be an extremely time consuming activity. Each word of the message would have to be found in English-Eskimo dictionary, which would in turn mean scanning the whole dictionary in a page-by-page and word-by-word manner!
+
+]]]
 
 Comment: Given that this is going to be an online book, we can very well add a short (1000 words?) dictionary.
 

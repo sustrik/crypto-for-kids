@@ -2,7 +2,7 @@
 
 NOTE: This got a bit out of hand, exploring the concept of zero-sum games...
 
-### Splitting the chores
+[[[name:chores section: 44
 
 Dear Grandma,
 
@@ -55,3 +55,4 @@ This is getting ridiculous. Now we both have more work to do than we used to whi
 Thanks!
 Todd
 
+]]]
