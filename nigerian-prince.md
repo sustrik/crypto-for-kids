@@ -7,3 +7,5 @@ This is a placeholder page.
 * etc.
 
 One think worth mentioning w.r.t. 419 scam is how scammers keep the initial email dumb to select clueless victims who could be more easily tricked in the next stages of the scam.
+
+Stuff about social engineering would maybe fit here.
