@@ -14,6 +14,8 @@ The stories will be mostly structured like this: First, something impossible hap
 
 In short, the book itself will use crypto and game theory to make the reader do what it wants.
 
+Rendered version of the text: <https://sustrik.github.io/crypto-for-kids/>
+
 If you want to participate in writing the book, please drop me a note at sustrik@250bpm.com or simply open a pull request.
 
 All the text is licensed under Creative Commons Attribution 4.0 International Public License.
