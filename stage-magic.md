@@ -1,4 +1,7 @@
-**This ties naturally to the section about scams.**
+
+This ties naturally to the section about scams.
+
+Alternatively, here's an article from Bruce Schneier about hacking papal election: <https://www.schneier.com/blog/archives/2013/02/hacking_the_pap.html>
 
 Source: <http://www.smithsonianmag.com/arts-culture/teller-reveals-his-secrets-100744801/?all&no-ist>
 
