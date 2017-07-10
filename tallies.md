@@ -26,5 +26,7 @@ This problem was sometimes solved by adding seals to the tally stick. Each party
 
 Now, if you wanted to make a fake half of tally stick you would have to fake your counterparties seal which is not possible.
 
-(Maybe there should be a preliminary chapter about seals.)	
+(Maybe there should be a preliminary chapter about seals.)
+
+This is a funny piece of trivia: "Those tally sticks, by the way, met an unfortunate end. The system was finally abolished and replaced by paper ledgers in 1834 after decades of attempts to modernise. To celebrate, it was decided to burn the sticks - six centuries of irreplaceable monetary records - in a coal-fired stove in the House of Lords, rather than letting parliamentary staff take them home for firewood. Burning a cartload or two of tally sticks in a coal-fired stove is a wonderful way to start a raging chimney fire. So it was that the House of Lords, then the House of Commons, and almost the entire Palace of Westminster - a building as old as the tally stick system itself - was burned to the ground." (source: http://www.bbc.com/news/business-40189959)
 
