@@ -4,7 +4,7 @@
 * Trithemius/Alberti/Vigenere/Babbage -- polyalphabetic ciphers
 * Shannon
 * Cypherpunks
-* Crypto wars
+* Crypto wars (see https://www.youtube.com/watch?v=LWwaVe1RF0c&t=2s)
 * Bitcoin
 * Stuxnet
 * I like the DAO hack story as a cautionary tale about crypto not bring sufficient by itself. More thinking needed.
