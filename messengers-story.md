@@ -30,7 +30,7 @@ The rest of the sheet was empty except for holographic seal of High Command of P
 
 "You are right, O leader of men," I said.
 
-I knew that this kind of empty flattery was used at the Sublime Porte but I was not sure whether it wasn't reserved for the sultan alone.
+I knew that this kind of empty flattery was used at the Sublime Porte but I was not sure whether it wasn't reserved for the sultan alone. Anyway, it was worth a try.
 
 Qgdzzxoglu smiled snarkily but haven't said anything. Maybe I was going to live in the end.
 
@@ -42,7 +42,7 @@ I hoped I haven't overdone it. Being honest with the enemy is hard.
 
 "So you are trying to convince me that de Ribeira is going to attack Iconium," he gave me a sharp look, apparently trying to determine whether I was lying or not. "And you know what? We've got our reports. And our reports are saying that rebels will try to trick us into moving all our forces into Iconium and then attack pashalik of Phlesmus while it's undefended. And if that's what you are trying to do bad things are going to happen to your proboscis."
 
-"The Most Holy Cross, John XXIII and Our Lady of Africa have already got a command to move to Iconium cluster. And you should expect at least comparable fire force from elsewhere."
+"The Most Holy Cross, John XXIII and Our Lady of Africa have already got a command to move to Iconium cluster. And you should expect at least comparable fire force coming from elsewhere."
 
 ...
 
@@ -54,6 +54,6 @@ He orders the torture to proceed only to make the messager change his confession
 
 ...
 
-“Today, the God, the Compassionate, the Merciful have taught me that there are secrets that cannot be given away. You cannot give them away to save yourself from torture. You cannot give them away to save your kids from being sold to slavery. You cannot give them away to prevent the end of the world. You just cannot give them away and whether you want to or not matters little.”
+“Today, the God, the Compassionate, the Merciful have taught me that there are secrets that cannot be given away. You cannot give them away to save yourself from torture. You cannot give them away to save your kids from being sold to slavery. You cannot give them away to prevent the end of the world. You cannot give them away and whether you want to or not matters little.”
 
 ]]]
