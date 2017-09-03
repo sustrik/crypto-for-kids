@@ -5,8 +5,8 @@ Complexity is a boring, complex, mathy topic. We should be careful here.
 Here's the idea:
 
 1. Start with Sibyl attacks. They are easy to explain, easy to empathize with. Someone is not playing fair after all.
-2. Show how proof of work (can very well be physical work) can sidestep the problem.
-3. Captchas. But what about robots (AIs)? If Weyland corporation creates a captcha-cracking robot is it fair that they can do Sibyl attacks? (This calls for a story.)
+2. Show how proof of work ("dig a hole 1m deep") can sidestep the problem.
+3. Captchas. But what about robots (AIs)? If Weyland corporation creates a super-captcha-cracking robot is it fair that they can do Sibyl attacks? (This connects maths to ethics and calls for a story.)
 4. Are there problems that are equally hard for everyone?
 5. What's "brute force"? Are there any problems that can be solved only by brute force?
 6. Factorization to primes.
