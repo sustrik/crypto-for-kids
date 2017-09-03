@@ -2,7 +2,11 @@
 
 ### Axaxaxas mlö
 
-The story takes place in Borges' library of Babylon.
+> The universe (which others call the Library) is composed of an indefinite, perhaps infinite number of hexagonal galleries. In the center of each gallery is a ventilation shaft, bounded by a low railing. From any hexagon one can see the floors above and below-one after another, endlessly. The arrangement of the galleries is always the same: TWenty bookshelves, five to each side, line four of the hexagon's six sides; the height of the bookshelves, floor to ceiling, is hardly greater than the height of a normal librarian. One of the hexagon's free sides opens onto a narrow sort of vestibule, which in turn opens onto another gallery, identical to the fi.rst-identical in fact to all. To the left and right of the vestibule are two tiny compartments. One is for sleeping, upright; the other, for satisfring one's physical necessities. Through this space, too, there passes a spiral staircase, which winds upward and downward into the remotest distance.
+> ...
+> Each wall of each hexagon is furnished with five bookshelves; each bookshelf holds thirty-two books identical in format; each book contains four hundred ten pages; each page, forty lines; each line, approximately eighty black letters. There are also letters on the front cover of each book; those letters neither indicate nor prefigure what the pages inside will say.
+
+L. J. Borges, The Library of Babel
 
 The idea here is that speculating about number of zeroes in the number or about number of atoms in the universe is not helping. Reader simply doesn't have the reference frame. They have no personal experience with number of atoms in the galaxy. The idea of "all possible books" is more personal, especially, when you realize the library contains a book that thruthfuly describes your life.
 
