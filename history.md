@@ -2,6 +2,7 @@
 
 * Scytale as an example of transposition cipher
 * Trithemius/Alberti/Vigenere/Babbage -- polyalphabetic ciphers
+* Wilkins' Mercury seems to be avilable online: https://archive.org/details/gu_mercuryorthes00wilk
 * Shannon
 * Cypherpunks
 
