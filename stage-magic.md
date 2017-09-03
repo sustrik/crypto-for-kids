@@ -34,4 +34,4 @@ H *4*6***2*
 I 1835***6*
 ```
 
-Take digits from C5 and G6. The solution is either 91 or 33, depending on how the Sudoku was solved.
+Take digits from C5 and G6. That gives you the number of chapter to procceed to. The solution is either 91 or 33, depending on how the Sudoku was solved.
