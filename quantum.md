@@ -26,11 +26,11 @@ The digits at positions C5 and G6 give a number of the following chapter.
 
 The solution is 91.
 
-Chapter 91 describes how the culprit was captured and is about to be executed.
+Chapter 32 describes how the culprit was captured and is about to be executed.
 
-At the last moment scientist from the university rush in and ask the investigator to solve the sudoku again, this time with digit N at position A1.
+At the last moment scientist from the university rush in and ask the investigator to solve the sudoku again, this time with digit 3 at position F5.
 
-This time the result is 33 and leads to a different chapter, where a different culprit is identified.
+This time the result is 44 and leads to a different chapter, where a different culprit is identified.
 
 Takeway: Quantum computing is inherently probabilistic. It can give wrong answers, but if you run the program many times, correct answer will appear more often than wrong answer.
 
