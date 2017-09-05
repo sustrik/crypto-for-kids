@@ -16,22 +16,3 @@ This could be the section that would live on the Internet. It will end with a pu
 1. It distracts you from the puzzle by talking about stage magic (see pt.2 above)
 2. It uses your pattern recognotion -- the web page is rendered the same way as the book -- to make you believe that mechanics of both are the same. In reality, they are not. Web page can serve randomly selected content.
 
-NOTE: Sudoku can have 2 solutions anyway. This trick could work even in offline setting!
-
-Example:
-
-```
-  123456789
-
-A *2***1854
-B *6***2*9*
-C *9*******
-D 2****6***
-E ***2*5***
-F ***4****7
-G *******8*
-H *4*6***2*
-I 1835***6*
-```
-
-Take digits from C5 and G6. That gives you the number of chapter to procceed to. The solution is either 91 or 33, depending on how the Sudoku was solved.
