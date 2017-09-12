@@ -64,4 +64,37 @@ But when the draw comes the numbers are different. To add insult to injury he wi
 
 And now the question: How did the scam work?
 
+If so move 34 sections backwards.
+
 ]]]
+
+[[[name:time-traveller2 section:65
+
+Have you figured out how the trick was done?
+
+If so, find a key that will turn following cyphertext
+
+```
+ZUWLCELJCKKXV ZF,MP EOWZ,HB
+```
+
+into a plaintext saying:
+
+BEWARE OF THE ONE EYED MAN!
+
+]]]
+
+Beware of the one eyed man!
+Go to section thirty three.
+
+In numbers:
+
+02 05 23 01 18 05 00 15 06 00 20 08 05 00 15 14 05 00 05 25 05 04 00 13 01 13 30
+07 15 00 20 15 00 19 05 03 20 09 15 14 00 20 08 09 18 20 25 00 20 08 18 05 05 28
+--------------------------------------------------------------------------------
+26 21 23 12 03 05 12 10 03 11 11 24 22 00 26 06 27 13 16 00 05 15 23 26 27 08 02 
+
+Z  U  W  L  C  E  L  J  C  K  K  X  V     Z  F  ,  M  P     E  O  W  Z  ,  H  B
+
+
+
