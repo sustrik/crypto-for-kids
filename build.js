@@ -28,6 +28,8 @@ function processFile(filename, content) {
             inblock = false
             props['content'] = block.join('\n')
             sections[props.section] = props
+            props = {}
+            block = []
             continue
         }
         if(inblock) block.push(line)

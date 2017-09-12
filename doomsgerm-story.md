@@ -33,6 +33,12 @@ Finally, they fixed it and approached Mariana Trench.
 
 It was at that point that the news reached them: The box was found by Russians and transported to Moscow. It was now stored in the vault underneath KGB headquarters. There was a whole division of spetsnaz guarding the building. The building itself was filled with special agents, each trained in twelve ways of silently killing a person.
 
+Continue reading at section 92.
+
+]]]
+
+[[[name:doomsgerm2 section:92
+
 Professor Krankenstein and his associated held a meeting on board of Amor Patrio, in the middle of Pacific Ocean. People came up with desperate proposals: Let's dig a tunnel underneath Moscow river. Let's blackmail Russians by re-creating the virus and threatening them to disperse it in Russia. Nuke the entire Moskovskaya Oblast! There was no end to wild and desperate proposals.
 
 Once the stream of proposals dried up, everyone looked at professor Krankenstein, awaiting his decision.
