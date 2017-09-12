@@ -10,6 +10,7 @@ function processFile(filename, content) {
     for(var i = 0; i != lines.length; i++) {
         var line = lines[i]
         if(!inblock && line.substring(0, 3) == '[[[') {
+            console.log('[[[')
             prs = line.substring(3).split(' ')
             for(var j = 0; j != prs.length; j++) {
                 var pos = prs[j].indexOf(':')
@@ -17,11 +18,13 @@ function processFile(filename, content) {
                 var name = prs[j].substring(0, pos)
                 var value = prs[j].substring(pos+1)
                 props[name] = value
+                console.log(name + ':' + value)
             }
             inblock = true
             continue 
         }
         if(inblock && line.substring(0, 3) == ']]]') {
+            console.log(']]]')
             inblock = false
             props['content'] = block.join('\n')
             sections[props.section] = props
@@ -35,13 +38,14 @@ var files = fs.readdirSync('.')
 for(var i = 0; i < files.length; i++) {
     if(files[i].substring(files[i].length - 3) == '.md') {
         var content = fs.readFileSync(files[i], 'utf-8')
+        console.log('Processing ' + files[i])
         processFile(files[i], content)
     }
 }
 
 result = ''
 
-for(var i = 1; i != sections.length; i++) {
+for(var i = 0; i != sections.length; i++) {
     if(typeof sections[i] === 'undefined') continue
     result += '#' + i.toString() + '.\n\n'
     result += sections[i].content
