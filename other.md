@@ -3,6 +3,7 @@
 * Commitments
 * Honeypot
 * Threat modelling
-* Voynich manuscript (this offers a way to discuss Zipf's law)
+* Voynich manuscript
 * Warrant canary
 * Social engineering
+* Kerckhoffs's principle
