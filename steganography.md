@@ -24,6 +24,10 @@ Another option: In Borges' Garden of Forking Paths the narrator, a German spy in
 
 ***
 
+Kurt Vonnegut, Mother Night: There is a section about Nazi propaganda broadcaster who by pauses and coughts sends hidden messages to the allies. Find the citation.
+
+***
+
 In 2017, there was a fear that Russian intelligence will try to effect French presidential elections. And, unsurprisingly, a day before the vote, a trove of documents was leaked that harmed Emmanuel Macron, the candidate who, as a president, was expected to take hard stance towards Russia.
 
 When the experts looked at the leaked documents they've found out that some of the metadata was in cyrilic, which means that the document was at some point opened on a computer with Russian language settings. Metadata of nine documents even contained a particular name: Georgiy Petrovich Roshka, who was tracked to be an employee of a company which seemed to be a Russian intelligence contractor.
