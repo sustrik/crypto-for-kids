@@ -6,7 +6,7 @@ After OTP is introduced as a "perfect" cipher write a story about mealleability 
 
 That would give us a strong motivating example for transposition ciphers.
 
-1. Write words backwards
+1. Write words backwards (there can be a short chapter written backwards).
 2. Scytale
 3. Russian copulation -- the problem of standardised headers and footers can be explored here
 4. Shannon's confusion and diffusion

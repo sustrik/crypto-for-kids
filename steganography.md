@@ -24,7 +24,9 @@ Another option: In Borges' Garden of Forking Paths the narrator, a German spy in
 
 ***
 
-Kurt Vonnegut, Mother Night: There is a section about Nazi propaganda broadcaster who by pauses and coughts sends hidden messages to the allies. Find the citation.
+> I earned my keep until the war ended in 1945 as a writer and broadcaster of Nazi propaganda to the English-speaking world. ... When the war was ending I was high on the list of war criminals, largely because my offenses were so obscenely public. ... I did not hang. I committed high treason, crimes against humanity, and crimes against my own conscience, and I got away with them until now. I got away with them because I was an American agent all through the war. My broadcasts carried coded information out of Germany. The code was a matter of mannerisms, pauses, emphases, coughs, seeming stumbles in certain key sentences. Persons I never saw gave me my instructions, told me in which sentences of a broadcast the mannerisms were to appear. I do not know to this day what information went out through me. From the simplicity of most of my instructions, I gather that I was usually giving yes or no answers to questions that have been put to the spy aparatus. Occasionally, as during the build-up for the Normandy invasion, my instructions were more complicated, and my phrasing and diction sounded like the last stages of double pneumonia.
+
+-- Kurt Vonnegut, Mother Night
 
 ***
 
