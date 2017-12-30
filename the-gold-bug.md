@@ -23,22 +23,26 @@ Here Legrand, having re-heated the parchment, submitted It my inspection. The fo
 
 "You observe there are no divisions between the words. Had there been divisions, the task would have been comparatively easy. In such case I should have commenced with a collation and analysis of the shorter words, and, had a word of a single letter occurred, as is most likely, (a or I, for example,) I should have considered the solution as assured. But, there being no division, my first step was to ascertain the predominant letters, as well as the least frequent. Counting all, I constructed a table, thus:
 
-Of the character 8 there are 33.
-
 ```
-   ;     "     26.
-   4     "     19.
- + )     "     16.
-   *     "     13.
-   5     "     12.
-   6     "     11.
- ! 1     "      8.
-   0     "      6.
- 9 2     "      5.
- : 3     "      4.
-   ?     "      3.
-   `     "      2.
- - .     "      1.
+Of the character 8 there are 33.
+        "        ;     "     26.
+        "        4     "     19.
+        "        +     "     16.
+        "        )     "     16.
+        "        *     "     13.
+        "        5     "     12.
+        "        6     "     11.
+        "        !     "      8.
+        "        1     "      8.
+        "        0     "      6.
+        "        9     "      5.
+        "        2     "      5.
+        "        :     "      4.
+        "        3     "      4.
+        "        ?     "      3.
+        "        `     "      2.
+        "        -     "      1.
+        "        .     "      1.
 ```
 
 "Now, in English, the letter which most frequently occurs is e. Afterwards, the succession runs thus: a o i d h n r s t u y c f g l m w b k p q x z. E however predominates so remarkably that an individual sentence of any length is rarely seen, in which it is not the prevailing character.
