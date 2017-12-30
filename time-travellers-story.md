@@ -30,7 +30,7 @@ He looked at the paper, confused and put it into his pocket.
 
 ***
 
-Next week he finds a letter in hix post box. It contains the key. The instructions on the paper say that the cypher is so called 'one-time pad' and explains how to decrypt it. Following the istrcutions is easy for an accountant. In no time Mr. Xi gets the message: "The winning numbers are three, thirteen,twenty seven,twenty eight and fifty." He hurries to the closest newspaper stand and checks the numbers. They match.
+Next week he finds a letter in hix post box. It contains the key. The instructions on the paper say that the cypher is so called 'one-time pad' and explains how to decrypt it. Following the instructions is easy for an accountant. In no time Mr. Xi gets the message: "The winning numbers are three, thirteen,twenty seven,twenty eight and fifty." He hurries to the closest newspaper stand and checks the numbers. They match.
 
 When they meet again the next time Mr. Xi admits that he is impressed. The time traveller explains that he came to the past to pursue a specific goal that has nothing to do with Mr. Xi. To get seed money he have looked up the winner of largest jackpot this year in the old newspaper and it turned to be Mr. Xi. "So I figured out that what happened was that I got back in time, told you the numbers and you've won."
 
