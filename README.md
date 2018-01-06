@@ -38,11 +38,11 @@ The simplest way to do that is to separate the book into multiple "levels". Each
 
 ![](paths4.png)
 
-Another thing to be learned from game design is that being said how to play the game spoils all the fun. The players should discover stuff by themselves. Therefore, there will be no sheet with the rules. Let kids experience the feeling of dealing with a mysterios artifact, devised by adversarial intelligence to confuse them. Even false leads can be added to make the entire enterprise more entertaining.
+Another thing to be learned from game design is that being said how to play the game spoils all the fun. The players should discover stuff by themselves. Therefore, there will be no sheet with the rules. Let kids experience the feeling of dealing with a mysterious artifact, devised by adversarial intelligence to confuse them. Even false leads can be added to make the entire enterprise more entertaining.
 
 Yet one more thing to focus on is correct pacing of stories and puzzles. The story should be a reward for solving a puzzle. It should be reasonably long to be an actual reward, but not overly long which would make the entire project less of a game and more of a plain old-school book.
 
-Finally, the story should, at the edges, blend to the real world. Example: "This is Voynich manuscript. It's scanned and posted online. Go and decypher it if you dare." Different example: "This is the history of cryptography. By the way, there's such a thing as CCC. Go and attend if you will. The thread that stretches from the dawn of time and passes through Caesar, Trithemius and Alan Turing ends in your hand today."
+Finally, the story should, at the edges, blend to the real world. Example: "This is Voynich manuscript. It's scanned and posted online. Go and decypher it if you dare." Different example: "This is the history of cryptography. By the way, there's such a thing as CCC. Go and attend if you will." The idea to communicate here is: The thread that stretches from the dawn of time and passes through Caesar, Trithemius and Alan Turing ends in your hand today.
 
 ### Notes
 
