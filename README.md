@@ -1,4 +1,4 @@
-# Crypto for Kids (Do suggest a better title!)
+# Crypto for Kids (A Book that is a Labyrinth)
 
 This project is a dumping ground for texts that will one day form a cryptography book for kids.
 
