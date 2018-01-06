@@ -30,6 +30,16 @@ Another option: In Borges' Garden of Forking Paths the narrator, a German spy in
 
 ***
 
+When you listen to Bach's _The art of Fugue_, it abruptly stops in a middle of a piece.
+
+If you look at the manuscript of the fugue, it has only partially written measure 239 and that's where it stops. There's a note written by Bach's son: "At the point where the composer introduces the name BACH in the countersubject to this fugue, the composer died."
+
+![](bach.png)
+
+(Note that german notation uses H where English would use B and B where they would use B flat.)
+
+***
+
 In 2017, there was a fear that Russian intelligence will try to effect French presidential elections. And, unsurprisingly, a day before the vote, a trove of documents was leaked that harmed Emmanuel Macron, the candidate who, as a president, was expected to take hard stance towards Russia.
 
 When the experts looked at the leaked documents they've found out that some of the metadata was in cyrilic, which means that the document was at some point opened on a computer with Russian language settings. Metadata of nine documents even contained a particular name: Georgiy Petrovich Roshka, who was tracked to be an employee of a company which seemed to be a Russian intelligence contractor.
