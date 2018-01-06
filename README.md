@@ -24,7 +24,9 @@ The picture below shows how, starting reading from chapter 99 it's impossible to
 
 ![](paths3.png)
 
-As a side effect, this "hyperlink" structure makes it possible for the book to be non-linear. Think of the fictional book discussed in Borges' _The Garden of Forking Paths_. Or, to pick a real book, Pavić's _Dictionary of the Khazars_. If the idea is taken into extreme it won't be possible to read the book without drawing a map, as you do when playing Dungeons & Dragons.
+To prevent reader from just reading the entire book some confusing and/or boring pulp should be added. The content of the pulp should not be easily distinguishable from the regular content. Old news articles, letters, accounting statements, fragments of boring novels, nonsensical diagrams and so on. These sections won't be linked from the regular content, but they may be linked together. The puzzles in these pages can be unsolvable or can even make no sense at all. From education standpoint, the reader embarking on the mission to read the entire book will live through an authentic the "sifting through a lot of stuff" experience, perhaps landing on an interesting bit here and there.
+
+As a side effect, the "hyperlink" structure of the book makes it possible for the book to be non-linear. Think of the fictional book discussed in Borges' _The Garden of Forking Paths_. Or, to pick a real book, Pavić's _Dictionary of the Khazars_. If the idea is taken into extreme it won't be possible to read the book without drawing a map, as you do when playing Dungeons & Dragons.
 
 ![](paths2.png)
 
