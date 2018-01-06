@@ -20,7 +20,7 @@ First, you cannot pick a chapter and find the previous one. Technically, this wo
 
 Second, picking a chapter from the middle of the book and trying to move forward is not going to work. Specifically, if the puzzle at the end of the chapter requires a skill that wasn't taught in that chapter, there's no way to find the next chapter.
 
-The picture below shows how, starting reading from chapter 2 it's impossible to move either forward or backward:
+The picture below shows how, starting reading from chapter 99 it's impossible to move either forward or backward:
 
 ![](paths3.png)
 
