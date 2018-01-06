@@ -10,15 +10,21 @@ The book itself is going to be a mystery, a puzzle, a labyrinth. It will be spli
 
 ![](paths1.png)
 
-Given this "hyperlink" structure it is even possible to make the book non-linear. Think of the book discussed in The Garden of Forking Paths. Or, to pick a real book, Dictionary of the Khazars. If the idea is taken into extreme it won't be possible to read the book without drawing a map, as you do when playing Dungeons & Dragons.
+One story may look, for example, like this: First, something impossible happens. Then the reader will be told: "How is that possible?" or "You now have enough information to solve the mystery yourself!" The final part of the story will resolve the mystery, but there's a catch. The reference to the final part will be encrypted, obfuscated or maybe steganographically hidden. To give a trivial example: "Continue reading at section 54 mod 7!"
+
+Structuring the stories like this has an educational value. Namely, if you want to teach something to someone, exercises are needed. But people tend to skip exercises. I, for one, do. However, this way the reader will be forced to do the exercise to be able to continue reading.
+
+The system also enforces the rules of the game. The reader cannot skip stuff or start reading from the middle.
+
+First, you cannot pick a chapter and find the previous one. Technically, this works like a one-way function. Given that the chapters are unordered and the only link between two subsequent chapters is a command at the end of the first chapter (e.g. "Go to section 135!") you would have to search through the entire book to find the previous chapter. But even if the book is digitalized and allows for automated searching, looking for "5" is not going to find anything if the command is "Go to section 54 mod 7!". 
+
+Second, picking a chapter from the middle of the book and trying to move forward is not going to work. Specifically, if the puzzle at the end of the chapter requires a skill that wasn't taught in that chapter, there's no way to find the next chapter:
+
+![](paths3.png)
+
+As a side effect, this "hyperlink" structure makes it possible for the book to be non-linear. Think of the fictional book discussed in Borges' The Garden of Forking Paths. Or, to pick a real book, Pavić's Dictionary of the Khazars. If the idea is taken into extreme it won't be possible to read the book without drawing a map, as you do when playing Dungeons & Dragons.
 
 ![](paths2.png)
-
-Individual sections will be either short texts about cryptography or stories. 
-
-The stories will be mostly structured like this: First, something impossible happens. Then the reader will be told: "How is that possible?" or "You now have enough information to solve the mystery yourself!" The final part of the story will resolve the mystery -- but there's a catch: It will be encrypted, obfuscated or otherwise (e.g. steganographically) hidden. If you want to know the solution you have to either solve it yourself or decipher the answer.
-
-In short, the book itself will use crypto and game theory to make the reader do what it wants.
 
 ### Notes
 
@@ -36,6 +42,6 @@ In short, the book itself will use crypto and game theory to make the reader do 
 
 Rendered version of the text: <https://sustrik.github.io/crypto-for-kids/>
 
-If you want to participate in writing the book, please drop me a note at `sustrik@250bpm.com` or simply open a pull request.
+If you want to participate in writing this book, please drop me a note at `sustrik@250bpm.com` or simply open a pull request.
 
 **All the text is licensed under Creative Commons Attribution 4.0 International Public License.**
