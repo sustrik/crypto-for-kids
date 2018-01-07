@@ -2,7 +2,9 @@
 
 This project is a dumping ground for texts that will one day form a cryptography book for kids.
 
-The target age group is 11+. According to Piaget, kids in concrete operational stage, aged 7-11, learn to understand a perspective other than one's own. Once they are done with that the door is open to understanding cryptography which, by it nature, is about conflicts between perspectives of different people.
+The target age group is 11+. According to Piaget, kids in concrete operational stage, aged 7-11, learn to understand a perspective other than one's own. Once they are done with that the door is open to understanding cryptography which, by it nature, requires looking at conflicts from persepectives of different participants.
+
+That being said, 95% of the grown-ups know nothing about cryptography, maybe except for its name. Furthermore, 99.9% have no idea that some special kind of thinking is required, one that doesn't come naturally and which may be useful even in everyday situations that have nothing to do with cryptography. Therefore, it would be nice if the book, while primarily focused on children, would be digestible by grown-ups.
 
 The goal of the book is to avoid as much technical detail as possible and focus on basic principles and the kind of twisted thinking needed for cryptography. As such the book will also touch adjacent subjects such as game theory, psychology, maths, economics, history, opsec, stage magic, you name it.
 
