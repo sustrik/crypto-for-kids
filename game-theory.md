@@ -1,6 +1,6 @@
-**Goal: Explain what and incentive is and how it can be used to create a mechanism.**
+**Basics of game theory.**
 
-NOTE: This got a bit out of hand, exploring the concept of zero-sum games...
+Most game theory courses start with the prisoner's dilemma. However, in my opinion that's too complex a topic to start with. Let's start with fair cake-cutting problem instead.
 
 [[[name:chores section: 44
 
@@ -56,3 +56,14 @@ Thanks!
 Todd
 
 ]]]
+
+The example above is supposed to show how incentives of different people can be played one against another to achieve particular outcome. Also, by the end it's getting close to showing the difference between zero-sum and non-zero-sum game.
+
+This is a pretty entertaining way to introduce prisoner's-dilemma-like problems: https://www.youtube.com/watch?v=S0qjK3TWZE8
+
+It also hints at something interesting: In the end, Nick chooses 'split'. He does so because it doesn't really matter. However, what if the game was to be repeated? Then he should choose 'steal'. This hints at the fact that repeated and one-off games have different optimal strategies.
+
+There could also be a story about vampire bats. Kids are going to love that. Moreover it allows to investigate game-theoretic scenarios associated with repeated games (and reciprocal altruism in general): https://en.wikipedia.org/wiki/Reciprocal_altruism#Vampire_bats 
+
+
+
