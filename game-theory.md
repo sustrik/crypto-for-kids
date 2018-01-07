@@ -157,7 +157,7 @@ Abraham: "It's lost. We've lost everything."
 
 Nick: "OK."
 
-Abraham: "We'll walk out without money because you are an idiot."
+Abraham: "We'll walk out without the money because you are an idiot."
 
 Nick: "No, that's not..."
 
@@ -187,9 +187,11 @@ Both balls say "SPLIT".
 
 Host: "Congratulations! You've both split and each receives 6,800 pounds!
 
+Everybody's laughing.
+
 Abraham: "Why did you put me through that?! Why did you do that to me?!
 
-Audience laughs and applauds.
+Audience cheers.
 
 Abraham and Nick shake hands.
 
