@@ -7,3 +7,4 @@
 * Warrant canary
 * Social engineering
 * Kerckhoffs's principle
+* Security through obscurity
