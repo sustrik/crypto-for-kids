@@ -13,3 +13,5 @@ Really, we can't help it.
 -- Bruce Schneier (https://www.schneier.com/blog/archives/2008/03/the_security_mi_1.html)
 
 Also look here: http://www.rumint.org/gregconti/publications/201107_Kobayashi.pdf
+
+Maybe a comment about <https://en.wikipedia.org/wiki/Asch_conformity_experiments>? Do we have an example of using conformity as an attack vector? No immediate ideas but the "X must be secure because everybody uses X" thinking is something that's exploitable on a large scale.
