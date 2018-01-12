@@ -63,7 +63,7 @@ No. of hints       No. of suspects
 
 After approximately 34 hints, the attacker is going to know who exactly you are.
 
-This operation is called logarithm. log2 7000000000 is approximately 34 (precisely, it's 32.70470777). The 2 stands for dividing the number of suspects by 2 in each step. It's called binary logarithm. If we were able to cut the number of suspects 10 times in each step we would use decimal logarithm (log10) and we would need only 10 hints to pinpoint the person.
+This operation is called logarithm. log2 7000000000 is approximately 34 (precisely, it's 32.70470777). The 2 stands for dividing the number of suspects by 2 in each step. It's called binary logarithm. If we were able to cut the number of suspects 10 times in each step we would use decimal logarithm (log10) and we would need only 10 hints to pinpoint the person. (For decimal logarithms check Dewey Decimal Classification.)
 
 Of course, it's not that easy. Some hints reveal more information about you, some reveal less.
 

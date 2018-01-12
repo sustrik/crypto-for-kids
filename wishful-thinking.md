@@ -38,4 +38,6 @@ X had though silently for a while: "Aaaah, I see. When the president was hijacke
 
 Y scratched his nose and continued: "Too bad. You haven't been looking for a real solution. You've been looking for something that just SOUNDS like a solution. Something that could have worked in an action movie."
 
+# 3
 
+<https://xkcd.com/538/>
