@@ -41,3 +41,17 @@ Y scratched his nose and continued: "Too bad. You haven't been looking for a rea
 # 3
 
 <https://xkcd.com/538/>
+
+Transcript:
+
+**A crypto nerd's imagination.**
+
+A: His laptop's encrypted. Let's build a million-dollar cluster to track it.
+B: No good! It's 4096-bit RSA!
+A: Blast! Our evil plan is foiled!
+
+**What would actually happen.**
+
+A: His laptop's encrypted. Drug him a hit him with this $5 wrench until he tells us the password.
+B: Got it.
+
