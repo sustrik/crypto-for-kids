@@ -183,7 +183,9 @@ Host (in dramatic voice): "SPLIT OR STEAL?"
 
 Abraham and Nick both open the balls and show them to the audience.
 
-Both balls say "SPLIT".
+Abraham's ball says "SPLIT".
+
+Nick's ball says "SPLIT".
 
 Host: "Congratulations! You've both split and each receives 6,800 pounds!
 
