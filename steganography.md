@@ -40,6 +40,16 @@ If you look at the manuscript of the fugue, it has only partially written measur
 
 ***
 
+http://www.openlettersmonthly.com/likefire/steganography-knowledge-is-powe
+
+[[[name:powe section:38
+
+![](powe.png)
+
+]]]
+
+***
+
 In 2017, there was a fear that Russian intelligence will try to effect French presidential elections. And, unsurprisingly, a day before the vote, a trove of documents was leaked that harmed Emmanuel Macron, the candidate who, as a president, was expected to take hard stance towards Russia.
 
 When the experts looked at the leaked documents they've found out that some of the metadata was in cyrilic, which means that the document was at some point opened on a computer with Russian language settings. Metadata of nine documents even contained a particular name: Georgiy Petrovich Roshka, who was tracked to be an employee of a company which seemed to be a Russian intelligence contractor.
@@ -69,7 +79,5 @@ So, in the end, we can't infer anything from what the players of the Game are sa
 However, we still have the "cui bono" principle. "Cui bono" is Latin for for "Who profits?" The idea is to look at who would profit from the action and assume that those who profited were the perpetrators. In this case, the leak caused damage to Macron. We can thus assume that the culprit was either someone who wanted to hurt Macron or, alternatively, someone who haven't cared about Macron's victory at all but wanted to make bad reputation for Russians.
 
 Well, it's not exactly saying who's the culprit but it at least rules out some people, like Macron himself.
-
-
 
 
