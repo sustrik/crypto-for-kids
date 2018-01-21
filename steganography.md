@@ -46,6 +46,12 @@ http://www.openlettersmonthly.com/likefire/steganography-knowledge-is-powe
 
 ![](powe.png)
 
+* TWO ROWS, NOT THREE
+* RECALL BACON
+* ONE GOT IT WRONG
+
+Last letter of the message is missing. There haven't been enough people. Take the missing letter, take its numeric value, multiply it by seven, continue reading at that section.
+
 ]]]
 
 ***
