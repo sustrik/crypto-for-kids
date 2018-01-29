@@ -3,7 +3,7 @@
 * Scytale as an example of transposition cipher
 * Trithemius/Alberti/Vigenere/Babbage -- polyalphabetic ciphers
 * Wilkins' Mercury seems to be avilable online: https://archive.org/details/gu_mercuryorthes00wilk
-* Shannon
+* Shannon (some funny trivia here: http://nautil.us/issue/50/emergence/claude-shannon-the-las-vegas-cheat)
 * Cypherpunks (intro: http://projects.csmonitor.com/cypherpunk, mailing list archives: http://cypherpunks.venona.com)
 
 > Governments of the Industrial World, you weary giants of flesh and steel, I come from Cyberspace, the new home of Mind. On behalf of the future, I ask you of the past to leave us alone. You are not welcome among us. You have no sovereignty where we gather.
