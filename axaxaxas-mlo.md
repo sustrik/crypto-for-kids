@@ -6,6 +6,8 @@
 
 L. J. Borges, The Library of Babel
 
+Interactive library: https://libraryofbabel.info/
+
 The idea here is that speculating about number of zeroes in the number or about number of atoms in the universe is not helping. Reader simply doesn't have the reference frame. They have no personal experience with number of atoms in the galaxy. The idea of "all possible books" is more personal, especially, when you realize the library contains a book that thruthfuly describes your life.
 
 According to Borges, each page has 40 lines, each line has 80 characters. With 25 distinct characters, each page has ~2000 bytes, which is a plausible key size. It's also long enough that your adversaries key may be an exact description of your death. Brute-forcing a key means searching for a specific page in the library.
